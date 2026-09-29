@@ -10,4 +10,4 @@ Most of my day-job code lives in private repos. What you'll find here is what I 
 
 **Stack I work in:** Java · Python · TypeScript/Node.js · SQL · Vitess · MySQL · HBase · Kafka · Kubernetes · AWS
 
-🌐 [Portfolio](https://lmorduchowicz.up.railway.app) · 💼 [LinkedIn](https://www.linkedin.com/in/lucas-morduchowicz-1a425344) · ✉️ [lmorduch@gmail.com](mailto:lmorduch@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/lucas-morduchowicz-1a425344) · ✉️ [lmorduch@gmail.com](mailto:lmorduch@gmail.com)
