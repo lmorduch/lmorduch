@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas 👋
 
-I'm an engineering manager at HubSpot. My teams run the SQL platform: **1,500+ MySQL databases on Vitess and Kubernetes serving ~90B queries a day**. Before that I was a tech lead on HubSpot's CRM backend, and before that I led backend teams at Hydrow and built data systems at TrueMotion and Jana Mobile.
+I'm an engineering manager at HubSpot. My teams run the SQL platform: **2,000+ MySQL databases on Vitess and Kubernetes serving ~90B queries a day**. Before that I was a tech lead on HubSpot's CRM backend, and before that I led backend teams at Hydrow and built data systems at TrueMotion and Jana Mobile.
 
 Most of my day-job code lives in private repos. What you'll find here is what I build on the side, mostly small AI-assisted apps I actually use:
 
